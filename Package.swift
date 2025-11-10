@@ -16,6 +16,7 @@ let package = Package(
         .iOSApplication(
             name: "Teqhawa Game",
             targets: ["AppModule"],
+            teamIdentifier: "47GFFH2USY",
             displayVersion: "1.0",
             bundleVersion: "1",
             appIcon: .asset("AppIcon"),
